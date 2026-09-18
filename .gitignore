@@ -1,0 +1,10 @@
+# aria2 runtime state
+session.aria2
+settings.json
+
+# local tooling
+.claude/
+
+# python
+__pycache__/
+*.py[cod]
